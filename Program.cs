@@ -9,13 +9,3 @@ void OurPower(int currentNumber) // новый математический ме
     Console.WriteLine(currentNumber*currentNumber); // описание метода - есть тело и нет точки с запятой
 }
 
-
-
-
-
-//Console.WriteLine("Введите число которое нужно возвести в квадрат ");
-//int number = Convert.ToInt32(Console.ReadLine());
-//Console.WriteLine(number*number); //первый способ самый простой без дополнительных слов
-//Console.WriteLine(Math.Pow(number, 2)); //второй способ с использованием математических формул языка С#
-//Console.WriteLine("5 в квадрате равно " + Math.Pow(number, 2)); //третий способ с использованием математических формул языка С# и словами
-//Console.WriteLine($"{number} в квадрате {number*number}");
